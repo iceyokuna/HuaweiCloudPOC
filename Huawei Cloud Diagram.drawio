@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T19:30:57.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="dfbLULSNDs4bP3qbTdAN" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T19:31:46.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="nMItwpVQIBnYij2ykVNE" version="13.9.2" type="github">
   <diagram id="nAV24ww3LLRNLmaxk3Xn" name="Page-1">
     <mxGraphModel dx="947" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,6 +74,18 @@
             <mxPoint x="370" y="320" as="sourcePoint" />
             <mxPoint x="420" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-29" value="Optical Character Recognition (OCR)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="37.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-30" value="Optical Character Recognition (OCR)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="37.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-31" value="Optical Character Recognition (OCR)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="132.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-32" value="Optical Character Recognition (OCR)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="132.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
