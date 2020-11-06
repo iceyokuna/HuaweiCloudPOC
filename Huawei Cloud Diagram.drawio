@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T19:46:49.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="wQYXbiH0sj5V0ICWUBAE" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T19:47:05.619Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="UM2teQ7O-ia5rh3WGLJy" version="13.9.2" type="github">
   <diagram id="nAV24ww3LLRNLmaxk3Xn" name="Page-1">
     <mxGraphModel dx="947" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
             <mxPoint x="420" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DOMseOueE0_xnXiFDASC-4" value="Optical Character Recognition (OCR)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DOMseOueE0_xnXiFDASC-4" value="Optical Character Recognition (OCR) for identity verification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DOMseOueE0_xnXiFDASC-6" value="Big Data System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
