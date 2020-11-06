@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T19:25:44.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="x3LZG6KshQ2HUBOvIpNP" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T19:25:55.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="cD3gHP5tAnNKx_ZIK8Ir" version="13.9.2" type="github">
   <diagram id="nAV24ww3LLRNLmaxk3Xn" name="Page-1">
     <mxGraphModel dx="946" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="fLkIhGlnERfLDi7LbhyJ-3" value="Deep Learning HMI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-4" value="Elastic Load Balance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-4" value="Elastic Load Balance&lt;br&gt;with Elastic IP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fLkIhGlnERfLDi7LbhyJ-5" value="Web Application Firewall (WAF)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
