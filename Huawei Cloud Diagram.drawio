@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T19:28:39.704Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="x6-A9dDYL_C_jyfELjta" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T19:29:59.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="KQ2HIox919HUXYbwfAdr" version="13.9.2" type="github">
   <diagram id="nAV24ww3LLRNLmaxk3Xn" name="Page-1">
     <mxGraphModel dx="947" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,18 +33,6 @@
         <mxCell id="DOMseOueE0_xnXiFDASC-3" value="Messaging Service (Email &amp;amp; SMS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DOMseOueE0_xnXiFDASC-4" value="Optical Character Recognition (OCR)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="300" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="DOMseOueE0_xnXiFDASC-6" value="Big Data System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="400" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-2" value="MAP Reduce Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="400" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-3" value="Deep Learning HMI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="300" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="fLkIhGlnERfLDi7LbhyJ-4" value="Elastic Load Balance&lt;br&gt;with Elastic IP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="302.97" y="132.5" width="120" height="80" as="geometry" />
         </mxCell>
@@ -61,6 +49,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fLkIhGlnERfLDi7LbhyJ-23" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fLkIhGlnERfLDi7LbhyJ-10" target="fLkIhGlnERfLDi7LbhyJ-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="320" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOMseOueE0_xnXiFDASC-4" value="Optical Character Recognition (OCR)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DOMseOueE0_xnXiFDASC-6" value="Big Data System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-2" value="MAP Reduce Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-3" value="Deep Learning HMI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-25" value="" style="endArrow=classic;html=1;exitX=0.006;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fLkIhGlnERfLDi7LbhyJ-6" target="fLkIhGlnERfLDi7LbhyJ-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="320" as="sourcePoint" />
             <mxPoint x="420" y="270" as="targetPoint" />
