@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T19:40:18.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="gV6-SSAm7XWgMIqqyRJF" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T19:46:49.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="wQYXbiH0sj5V0ICWUBAE" version="13.9.2" type="github">
   <diagram id="nAV24ww3LLRNLmaxk3Xn" name="Page-1">
     <mxGraphModel dx="947" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         <mxCell id="DOMseOueE0_xnXiFDASC-1" value="Cloud&lt;br&gt;Authentication Service&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="82.97" y="130" width="120" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="DOMseOueE0_xnXiFDASC-2" value="Elastic Cloud Server - Front End Application&lt;br&gt;(React JS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DOMseOueE0_xnXiFDASC-2" value="ECS - Front End Application&lt;br&gt;(React JS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="82.97" y="37.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DOMseOueE0_xnXiFDASC-3" value="Messaging Service (Email &amp;amp; SMS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -78,16 +78,16 @@
             <mxPoint x="420" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-29" value="ECS - Quiz Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="37.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-30" value="ECS - &amp;nbsp;User Management Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="37.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-31" value="ECS - Career Recommendation Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="132.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-32" value="ECS - Job Application Service&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="132.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fLkIhGlnERfLDi7LbhyJ-33" value="Microservices" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -102,14 +102,20 @@
         <mxCell id="fLkIhGlnERfLDi7LbhyJ-36" value="Front End Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="72.97000000000003" y="10" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-37" value="Enterprise Intelligence Solution" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-37" value="Recommendation Solution" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="280" width="185" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fLkIhGlnERfLDi7LbhyJ-40" value="Data Storage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="142.5" y="320" width="185" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-41" value="Advanced Anti DDOS&lt;br&gt;(AAD)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-41" value="Anti DDOS&lt;br&gt;(AD)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="82.97" y="207.5" width="120" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-43" value="NAT Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302.97" y="207.5" width="117.03" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-44" value="**ECS is scalable Elastic Cloud Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="58" y="290" width="367.03" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
