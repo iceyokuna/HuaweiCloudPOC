@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T19:59:22.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="VkC68QGxB0kuInfDIqRF" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T20:01:41.850Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="uEk9YlAPpH1jT13RP7y9" version="13.9.2" type="github">
   <diagram id="nAV24ww3LLRNLmaxk3Xn" name="Page-1">
     <mxGraphModel dx="947" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,13 +111,10 @@
         <mxCell id="fLkIhGlnERfLDi7LbhyJ-44" value="**ECS is scalable Elastic Cloud Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="58" y="290" width="367.03" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-45" value="**OBS is Object Storage Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="58" y="600" width="367.03" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-46" value="Data Warehouse Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-46" value="RDS for PostgreSQL&lt;br&gt;( User Profile)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="92.97000000000003" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fLkIhGlnERfLDi7LbhyJ-48" value="OBS - User, Quiz, Career Recommendation, Job Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fLkIhGlnERfLDi7LbhyJ-48" value="Object Storage Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fLkIhGlnERfLDi7LbhyJ-49" value="OBS - Job Application and Career" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
