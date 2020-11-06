@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T15:27:03.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="8vdqF8qKoWB8dGGZmgRo" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T15:38:14.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="L5W5sQytyCqHlpmiTfA4" version="13.9.2" type="github">
   <diagram id="nAV24ww3LLRNLmaxk3Xn" name="Page-1">
-    <mxGraphModel dx="946" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DOMseOueE0_xnXiFDASC-1" value="Cloud&lt;br&gt;Authentication Service&lt;br&gt;(OAuth 2.0)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DOMseOueE0_xnXiFDASC-2" value="Front End Application&lt;br&gt;(React JS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DOMseOueE0_xnXiFDASC-3" value="Messaging Service (Email &amp;amp; SMS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DOMseOueE0_xnXiFDASC-4" value="OCR Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DOMseOueE0_xnXiFDASC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DOMseOueE0_xnXiFDASC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
